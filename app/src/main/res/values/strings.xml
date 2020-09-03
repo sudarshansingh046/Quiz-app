@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="java">JAVA</string>
+    <string name="textview">TextView</string>
+    <string name="question">question</string>
+    <string name="a">a</string>
+    <string name="b">b</string>
+    <string name="c">c</string>
+    <string name="d">d</string>
+    <string name="quiz">QUIZ</string>
+    <string name="submit">submit</string>
+    <string name="css">CSS</string>
+    <string name="python">PYTHON</string>
+    <string name="c1">C++</string>
+    <string name="random">RANDOM</string>
+    <string name="start">Start</string>
+</resources>
